@@ -1,4 +1,4 @@
 # myrepo
 My first GiHub repo
 
-I am making this edti from my computer
+I am making this edit from my computer
